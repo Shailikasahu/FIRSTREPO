@@ -1,1 +1,3 @@
-that is my first git things
+that is my second git things
+
+making more changes
